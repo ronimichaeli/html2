@@ -1,0 +1,122 @@
+img {
+	 border: 1px solid blue;
+	border-radius: 4px;
+	padding: 5px;
+	width: 370px;
+	height: 385px;
+	
+}
+
+h1 {
+	color: #111; font-family: 'algerian', sans-serif; font-size: 95px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+	
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+	font-family: Freestyle Script;
+	color: red;
+	font-size: 75px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+#spacialfon {
+font-family: Castellar;	
+color:green;
+font-weight:bold;
+font-size: 35px;
+}
+
+.alfa {
+	color:red;
+}
+
+h3 {
+		text-align: center;
+	font-weight: bold;
+	font-family: Cooper Black;
+	color: white;
+	font-size: 45px;
+
+	
+	
+}
+
+.media {
+	position: absolote;
+
+}
+
+il {
+list-style: none;
+margin: inline-block;
+font-size: 20px;
+padding: 20px 20px;
+color: #fff;
+border: 1px solid #fff;
+border-radius: 50%;
+transition: .5s;
+
+
+}
+
+body {
+	background: url(https://64.media.tumblr.com/a0f8d27cf7a90ddb5beec8404c926d40/tumblr_pfld8tapKS1w92w7mo1_1280.jpg);
+	background-size: 100% 100%;
+	
+}
+
+#life {
+font-family: arial;	
+color:yellow;
+font-weight:bold;
+font-size: 30px;
+}
+
+#cars {
+font-family: Berlin Sans FB Demi;	
+color:white;
+font-weight:bold;
+font-size: 48px;
+}
+
+#cars2 {
+	font-family: Berlin Sans FB Demi;	
+	color:white;
+	font-weight:bold;
+	text-align: center;
+	font-weight: bold;
+	font-size: 44px;
+
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+  padding: 10px;
+}
+
+.left {
+	position: absolute;
+	left: 0px;
+	padding: 10px;
+}
+
+#gallery {
+		text-align: center;
+	font-weight: bold;
+	font-family: Broadway;
+	color: red;
+	font-size: 45px;
+}
+
+.alfa99 {
+	color: pink;
+}
